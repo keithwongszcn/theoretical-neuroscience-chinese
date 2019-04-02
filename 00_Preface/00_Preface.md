@@ -26,6 +26,4 @@
 
 我们从这些人中收到了大量额外的帮助和建议：Greg DeAngelis, Andy Barto, Matt Beal, Sue Becker, Tony Bell, Paul Bressloff, Emery Brown, Matteo Carandini, Frances Chance, Yang Dan, Kenji Doya, Ed Erwin, John Fitzpatrick, David Foster, Marcus Frean, Ralph Freeman, Enrique Garibay, Frederico Girosi, Charlie Gross, Andreas Herz, Mike Jordan, Sham Kakade, Szabolcs K´ali, Christof Koch, Simon Laughlin, John Lisman, Shawn Lockery, Guy Mayraz, Josh McDermott, Markus Meister, Earl Miller, Quaid Morris, Tony Movshon, Yuko Munakata, Randy O’Reilly, Simon Osindero, Tomaso Poggio, Clay Reid, Max Riesenhuber, Dario Ringach, Horacio Rotstein, Sam Roweis, Lana Rutherford, Ken Sugino, Alexei Samsonovich, Bob Shapley,WolframSchultz, Idan Segev, Terry Sejnowski, Jesper Sj ¨ostr ¨om, Haim Sompolinksy, Fiona Stevens, David Tank, Emo Todorov, Alessandro Treves, Gina Turrigiano, Davi Van Essen, Martin Wainwright, Xiao-Jing Wang, Chris Watkins, Max Welling, Jenny Whiting, MattWilson, LaurenzWiskott, Danny Young, and Kechen Zhang。同样感谢Quentin Huys, Philip Jonkers, Alexander Lerchner, Shih-Chii Liu,M´at´e Lengyel, Alex Loebel,HadiMurr, IainMurray, Jihwan Myung, John van Opstal, David Simon, Ed Snelson, and Rafael Yuste指出文中的错误。
 
-我们感谢Maneesh Sahani
-
-我们对于任何因疏忽而未包含在这份名单中的人致以歉意。Karen Abbott对图表提供了大量的帮助。对于MIT出版社，我们感谢Michael Rutter的耐心和持续的建议，也感谢Sara meirowitz和Larry Cohen在Michael离开后对工作的支持。
+我们感谢Maneesh Sahani的建议和对大部分文本的编排工作，感谢Heidi Cartwright的封面设计以及感谢Michael Rutter的耐心和持续的建议。特别鸣谢来自盖茨比慈善基金会的支持。Karen Abbott对图表提供了大量的帮助。最后，对于任何因疏忽而未包含在这份名单中的人，我们报以诚挚的歉意。
